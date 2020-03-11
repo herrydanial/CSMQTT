@@ -1,0 +1,382 @@
+#
+# Creating new log
+#
+2/21/2020 - 11:50:49 AM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 11:51:01 AM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 2:44:10 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:44:40 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:44:40 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:44:57 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:44:57 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 2:51:14 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:51:23 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:52:07 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 2:54:40 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:54:54 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 2:58:12 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:58:28 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:58:28 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:58:38 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 2:58:38 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 5:50:22 PM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MqttLib.Core.Messages.MqttMessage.ReadCompleteBuffer(Stream str, Byte[] buffer) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\Messages\MqttMessage.cs:line 239
+   at MqttLib.Core.Messages.MqttMessage.ReadUshortFromStream(Stream str) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\Messages\MqttMessage.cs:line 221
+   at MqttLib.Core.Messages.MqttSubackMessage.ConstructFromStream(Stream str) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\Messages\MqttSubackMessage.cs:line 20
+   at MqttLib.Core.Messages.MqttMessage..ctor(Stream str, Byte header) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\Messages\MqttMessage.cs:line 99
+   at MqttLib.Core.Messages.MqttAcknowledgeMessage..ctor(Stream str, Byte header) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\Messages\MqttAcknowledgeMessage.cs:line 25
+   at MqttLib.Core.Messages.MqttSubackMessage..ctor(Stream str, Byte header) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\Messages\MqttSubackMessage.cs:line 12
+   at MqttLib.Core.Messages.MessageFactory.CreateMessage(Stream str, Byte header) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\Messages\MessageFactory.cs:line 38
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 98
+#
+# Creating new log
+#
+2/21/2020 - 5:50:41 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 5:50:54 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 6:17:38 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 6:17:53 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 42
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 6:21:31 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 6:22:20 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 6:22:24 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult. ---> System.ArgumentException: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 97
+2/21/2020 - 6:22:24 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 6:22:32 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult. ---> System.ArgumentException: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 97
+2/21/2020 - 6:22:43 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult. ---> System.ArgumentException: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 97
+2/21/2020 - 6:22:43 PM - [ERROR]MqttLib: Uncaught exception from user delegate: MqttLib.MqttNotConnectedException: You need to connect to a broker before trying to Publish
+   at MqttLib.Mqtt.Subscribe(Subscription[] subscriptions) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 225
+   at MqttLib.Mqtt.Subscribe(Subscription subscription) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 231
+   at MqttLib.Mqtt.Subscribe(String topic, QoS qos) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 236
+   at MQTTTEST.Form_MQTTTEST.RegisterOurSubscriptions() in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 71
+   at MQTTTEST.Form_MQTTTEST.client_Connected(Object sender, EventArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 52
+   at MqttLib.Mqtt.OnConnected(EventArgs e) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 415
+2/21/2020 - 6:22:49 PM - [ERROR]MqttLib.Core.NotConnectedException: Not connected to any stream,  call Connect() first
+   at MqttLib.Core.StreamManager.SendMessage(MqttMessage mess) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 83
+   at MqttLib.Mqtt.tmrCallback(Object args) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 64
+#
+# Creating new log
+#
+2/21/2020 - 6:23:19 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 6:23:31 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult. ---> System.ArgumentException: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 97
+#
+# Creating new log
+#
+2/21/2020 - 6:23:44 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 6:24:06 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 6:24:14 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 6:45:19 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 6:48:50 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+2/21/2020 - 6:51:53 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult. ---> System.ArgumentException: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+Parameter name: asyncResult
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 97
+2/21/2020 - 6:51:54 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 41
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+2/21/2020 - 7:09:49 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 45
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+3/11/2020 - 1:02:38 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 97
+#
+# Creating new log
+#
+3/11/2020 - 1:02:59 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 97
+#
+# Creating new log
+#
+3/11/2020 - 1:03:35 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 97
+#
+# Creating new log
+#
+3/11/2020 - 1:04:43 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Core\StreamManager.cs:line 97
+#
+# Creating new log
+#
+3/11/2020 - 1:05:55 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 52
+   at PublishArrivedDelegate.Invoke(Object sender, PublishArrivedArgs e)
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
