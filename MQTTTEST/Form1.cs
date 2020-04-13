@@ -93,7 +93,7 @@ namespace MQTTTEST
 
         private void button_Send_Click(object sender, EventArgs e)
         {
-            _client.Publish("topic/", "Hello MQTT World", QoS.BestEfforts, false);
+            _client.Publish("/Testing/topic/", textBox_Message.Text, QoS.BestEfforts, false);
         }
 
         private void button_Listen_Click(object sender, EventArgs e)

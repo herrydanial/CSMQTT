@@ -10,3 +10,15 @@ C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\obj\Debug\MQTTTEST.csproj.Generat
 C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\obj\Debug\MQTTTEST.csproj.CopyComplete
 C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\obj\Debug\MQTTTEST.exe
 C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\obj\Debug\MQTTTEST.pdb
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\bin\Debug\MQTTTEST.exe.config
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\bin\Debug\MQTTTEST.exe
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\bin\Debug\MQTTTEST.pdb
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\bin\Debug\MqttLib.pdb
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\obj\Debug\MQTTTEST.csprojAssemblyReference.cache
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\obj\Debug\MQTTTEST.Form_MQTTTEST.resources
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\obj\Debug\MQTTTEST.Properties.Resources.resources
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\obj\Debug\MQTTTEST.csproj.GenerateResource.cache
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\obj\Debug\MQTTTEST.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\obj\Debug\MQTTTEST.csproj.CopyComplete
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\obj\Debug\MQTTTEST.exe
+C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\obj\Debug\MQTTTEST.pdb

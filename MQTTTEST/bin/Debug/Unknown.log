@@ -380,3 +380,44 @@ Parameter name: asyncResult
    at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\CWJH63\source\repos\MQTTTEST\MQTTTEST\Form1.cs:line 52
    at PublishArrivedDelegate.Invoke(Object sender, PublishArrivedArgs e)
    at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+13/4/2020 - 9:20:06 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\Form1.cs:line 52
+   at PublishArrivedDelegate.Invoke(Object sender, PublishArrivedArgs e)
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+13/4/2020 - 9:20:09 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.InvalidOperationException: Cross-thread operation not valid: Control 'label1' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.Label.set_Text(String value)
+   at MQTTTEST.Form_MQTTTEST.client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\Form1.cs:line 52
+   at PublishArrivedDelegate.Invoke(Object sender, PublishArrivedArgs e)
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+13/4/2020 - 9:20:32 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.NotImplementedException: The method or operation is not implemented.
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\Form1.cs:line 47
+   at PublishArrivedDelegate.Invoke(Object sender, PublishArrivedArgs e)
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+13/4/2020 - 9:20:35 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.NotImplementedException: The method or operation is not implemented.
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\Form1.cs:line 47
+   at PublishArrivedDelegate.Invoke(Object sender, PublishArrivedArgs e)
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+#
+# Creating new log
+#
+13/4/2020 - 9:20:35 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.NotImplementedException: The method or operation is not implemented.
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\Form1.cs:line 47
+   at PublishArrivedDelegate.Invoke(Object sender, PublishArrivedArgs e)
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311
+13/4/2020 - 9:20:41 PM - [ERROR]MqttLib: Uncaught exception from user delegate: System.NotImplementedException: The method or operation is not implemented.
+   at MQTTTEST.Form_MQTTTEST._client_PublishArrived(Object sender, PublishArrivedArgs e) in C:\Users\User\Downloads\CSMQTT-master\CSMQTT-master\MQTTTEST\Form1.cs:line 47
+   at PublishArrivedDelegate.Invoke(Object sender, PublishArrivedArgs e)
+   at MqttLib.Mqtt.OnPublishArrived(MqttPublishMessage m) in c:\Users\CWJH63\Desktop\MqttDotNet\MqttLib\Mqtt.cs:line 311

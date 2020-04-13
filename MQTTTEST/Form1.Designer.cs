@@ -34,6 +34,7 @@
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.button_Send = new System.Windows.Forms.Button();
             this.button_Listen = new System.Windows.Forms.Button();
+            this.textBox_Message = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button_Press
@@ -67,7 +68,7 @@
             // 
             // button_Send
             // 
-            this.button_Send.Location = new System.Drawing.Point(160, 114);
+            this.button_Send.Location = new System.Drawing.Point(160, 174);
             this.button_Send.Name = "button_Send";
             this.button_Send.Size = new System.Drawing.Size(240, 106);
             this.button_Send.TabIndex = 3;
@@ -77,7 +78,7 @@
             // 
             // button_Listen
             // 
-            this.button_Listen.Location = new System.Drawing.Point(160, 226);
+            this.button_Listen.Location = new System.Drawing.Point(160, 286);
             this.button_Listen.Name = "button_Listen";
             this.button_Listen.Size = new System.Drawing.Size(240, 75);
             this.button_Listen.TabIndex = 4;
@@ -85,11 +86,19 @@
             this.button_Listen.UseVisualStyleBackColor = true;
             this.button_Listen.Click += new System.EventHandler(this.button_Listen_Click);
             // 
+            // textBox_Message
+            // 
+            this.textBox_Message.Location = new System.Drawing.Point(160, 146);
+            this.textBox_Message.Name = "textBox_Message";
+            this.textBox_Message.Size = new System.Drawing.Size(240, 22);
+            this.textBox_Message.TabIndex = 5;
+            // 
             // Form_MQTTTEST
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(566, 383);
+            this.Controls.Add(this.textBox_Message);
             this.Controls.Add(this.button_Listen);
             this.Controls.Add(this.button_Send);
             this.Controls.Add(this.label1);
@@ -111,6 +120,7 @@
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.Button button_Send;
         private System.Windows.Forms.Button button_Listen;
+        private System.Windows.Forms.TextBox textBox_Message;
     }
 }
 
